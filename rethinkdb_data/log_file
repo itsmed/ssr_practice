@@ -1,0 +1,28 @@
+2016-06-17T13:40:29.213590000 0.450806s notice: Recursively removing directory /Users/dejongill/Desktop/programming/practice-apps/rethinkDB/ssr_practice/rethinkdb_data/tmp
+2016-06-17T13:40:29.218675000 0.455898s notice: Initializing directory /Users/dejongill/Desktop/programming/practice-apps/rethinkDB/ssr_practice/rethinkdb_data
+2016-06-17T13:40:29.218848000 0.456063s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/dejongill/Desktop/programming/practice-apps/rethinkDB/ssr_practice/rethinkdb_data' did not already exist or is empty.)
+2016-06-17T13:40:29.218904000 0.456119s notice: Running rethinkdb 2.3.4 (CLANG 7.3.0 (clang-703.0.31))...
+2016-06-17T13:40:29.237399000 0.474616s notice: Running on Darwin 15.5.0 x86_64
+2016-06-17T13:40:29.237560000 0.474776s notice: Loading data from directory /Users/dejongill/Desktop/programming/practice-apps/rethinkDB/ssr_practice/rethinkdb_data
+2016-06-17T13:40:29.438751000 0.675967s info: Cache size is set to 200 MB
+2016-06-17T13:40:29.438784000 0.675998s warn: Cache size does not leave much memory for server and query overhead (available memory: 417 MB).
+2016-06-17T13:40:29.440970000 0.678185s notice: Listening for intracluster connections on port 61455
+2016-06-17T13:40:29.443800000 0.681014s notice: Listening for client driver connections on port 61456
+2016-06-17T13:40:29.444057000 0.681272s notice: Listening for administrative HTTP connections on port 61457
+2016-06-17T13:40:29.444099000 0.681314s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-06-17T13:40:29.444134000 0.681348s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-06-17T13:40:29.444137000 0.681351s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-06-17T13:40:29.444148000 0.681362s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-06-17T13:40:29.444152000 0.681366s notice: Server ready, "macBookOfDJ_9ou" 715f6c25-e401-41f5-92b2-329e93a21870
+2016-06-17T13:40:29.775151000 1.012366s info: Table 4a6fcb65-1b27-4415-b5bc-a5c77f3c6d97: Starting a new Raft election for term 1.
+2016-06-17T13:40:29.775648000 1.012863s info: Table 4a6fcb65-1b27-4415-b5bc-a5c77f3c6d97: Added replica on this server.
+2016-06-17T13:40:29.799721000 1.036936s info: Table 4a6fcb65-1b27-4415-b5bc-a5c77f3c6d97: This server is Raft leader for term 1. Latest log index is 0.
+2016-06-17T13:40:30.566589000 1.803804s info: Table 36fb3c8f-1cd3-4e12-916d-4c15a41ccbc7: Starting a new Raft election for term 1.
+2016-06-17T13:40:30.566919000 1.804134s info: Table 36fb3c8f-1cd3-4e12-916d-4c15a41ccbc7: Added replica on this server.
+2016-06-17T13:40:30.590026000 1.827241s info: Table 36fb3c8f-1cd3-4e12-916d-4c15a41ccbc7: This server is Raft leader for term 1. Latest log index is 0.
+2016-06-17T13:40:31.351618000 2.588761s info: Table 970f4864-6a1f-44fb-9b1e-02a3c2f53d41: Starting a new Raft election for term 1.
+2016-06-17T13:40:31.351962000 2.589106s info: Table 970f4864-6a1f-44fb-9b1e-02a3c2f53d41: Added replica on this server.
+2016-06-17T13:40:31.384371000 2.621514s info: Table 970f4864-6a1f-44fb-9b1e-02a3c2f53d41: This server is Raft leader for term 1. Latest log index is 0.
+2016-06-17T13:40:32.120147000 3.357291s info: Table a76106e1-4149-4449-b5db-7799a2df2c43: Starting a new Raft election for term 1.
+2016-06-17T13:40:32.120520000 3.357664s info: Table a76106e1-4149-4449-b5db-7799a2df2c43: Added replica on this server.
+2016-06-17T13:40:32.145688000 3.382832s info: Table a76106e1-4149-4449-b5db-7799a2df2c43: This server is Raft leader for term 1. Latest log index is 0.
